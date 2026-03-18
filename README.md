@@ -163,6 +163,7 @@ Make sure these files are in the same folder:
 * Custom functions:
 
   * `CalculateMotionEnergyBehaviour`
+  * `CalculateMotionEnergyCortical`
   * `conditionDffMat`
   * `tensor_convolve`
 
