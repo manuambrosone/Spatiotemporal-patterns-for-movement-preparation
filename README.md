@@ -24,7 +24,7 @@ The pipeline is designed as an **interactive demo** for exploration and visualiz
 4. Open the Live Script:
 
 ```matlab
-DEMO.mlx
+DEMO_spatiotemporal_patterns_for_movement_preparation.mlx
 ```
 
 5. Run the script **section by section** (Ctrl + Enter)
