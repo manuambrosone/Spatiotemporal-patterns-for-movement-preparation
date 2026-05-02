@@ -164,8 +164,8 @@ Make sure these files are in the same folder:
 
   * `CalculateMotionEnergyBehaviour`
   * `CalculateMotionEnergyCortical`
-  * `conditionDffMat`
-  * `tensor_convolve`
+  * `conditionDffMat` (adapted from MacDowell & Buschaman., 2020)
+  * `tensor_convolve` (adapted from MacDowell & Buschaman., 2020)
 
 ---
 
